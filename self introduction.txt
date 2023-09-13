@@ -1,0 +1,13 @@
+ Im karthiga. im from karaikal, im working as a s/w testing engineer.   3 yr of experince in the s/w testing field both well as manual and automation testing.i started my  journey with apptium technology as a trainer of s/w tester from 2017 to till now. i have been working on different domain likes health care and commerce domain. 
+
+
+i have been working on manual and automation test. i have strong knowledge on automation tools like selenium and testng and cucumber framework and my current  project is limeroad project and based on product domain project .  i hav e used to test the web application  selenium with java  and also testng , cucumber  framework and coming to qa tools we are used GRA tool for bug reporting purpose.i have experience on postman api which is a manual api and also i have experience in rest assured as well.and also successfully perfom testing like a fuctional testing,smoke testing and regression testing and we are working on agile environment with 2 weeks of sprint.and it cost for constant communication between development team and product owner.
+
+ this very complex application and am learning lot of thinks in this domain and all  though love a current role i feel i ready for more challanging assignment and this position makes me more exciting. my  stregnth are my attitute  punctuality and interpreter skill ang i am good team player and goal oriented so thats all
+ .
+
+
+
+
+
+i have experience in git,jira,jerkins. in git  for ability to work with source control mechanisms using the source control tool Git, and Jenkins can be used to automate building an application, running tests, and deploying the application.
