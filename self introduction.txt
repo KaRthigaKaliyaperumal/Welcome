@@ -11,3 +11,4 @@ i have been working on manual and automation test. i have strong knowledge on au
 
 
 i have experience in git,jira,jerkins. in git  for ability to work with source control mechanisms using the source control tool Git, and Jenkins can be used to automate building an application, running tests, and deploying the application.
+Thank you
